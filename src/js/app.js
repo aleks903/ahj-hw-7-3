@@ -7,7 +7,7 @@ const buttonSelectFile = document.querySelector('#button-select');
 const elSelectFile = document.querySelector('#drop-file');
 
 const addImg = new AddImg(blockImg, elementError);
-//const server = 'http://localhost:7070';
+// const server = 'http://localhost:7070';
 const server = 'https://heroku-ahj-7-3.herokuapp.com/';
 
 
